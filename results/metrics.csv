@@ -1,0 +1,7 @@
+Metric,Binary,Multi_Class
+Accuracy,0.7951,0.7681
+Precision,0.9625,0.7213
+Recall_TPR,0.6659,0.5082
+FPR,0.0343,0.0782
+F1_Score,0.7872,0.516
+ROC_AUC,0.8652,0.828
